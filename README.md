@@ -1,8 +1,6 @@
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
 Install the dependencies, seed your database and start the server, do not forget connect your database in your .env file.
 
 ```sh
